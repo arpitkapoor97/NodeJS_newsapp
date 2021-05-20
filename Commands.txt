@@ -1,0 +1,5 @@
+npm init
+npm install axios body-parser ejs express
+npm install --save-dev nodemon
+
+npm start
