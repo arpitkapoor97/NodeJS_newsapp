@@ -4,7 +4,7 @@ const newsRouter = express.Router()
 
 const axios = require('axios')
 
-const api_key = '3dab794ab5ab40a792e41a1104e71a1f'
+const api_key = '#'
 
 newsRouter.get('', async(req,res)=>{
     //res.render('news')
